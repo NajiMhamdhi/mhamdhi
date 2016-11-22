@@ -1,0 +1,9 @@
+com\seniorAdom\springmvc\configuration\AppInitializer.class
+com\seniorAdom\springmvc\service\CoordonnePointGpsServiceImpl.class
+com\seniorAdom\springmvc\controller\RestControllerTest.class
+com\seniorAdom\springmvc\configuration\JpaConfiguration.class
+com\seniorAdom\springmvc\model\CoordonnePointGps.class
+com\seniorAdom\springmvc\configuration\AppConfig.class
+com\seniorAdom\springmvc\dao\AbstractDao.class
+com\seniorAdom\springmvc\dao\CoordonnePointGpsRepository.class
+com\seniorAdom\springmvc\service\CoordonnePointGpsService.class
